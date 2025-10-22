@@ -65,7 +65,6 @@ class HomePage extends StatelessWidget {
   }
 }
 
-// ---------------- ABOUT PAGE ----------------
 class AboutPage extends StatelessWidget {
   const AboutPage({super.key});
 
@@ -101,7 +100,6 @@ class AboutPage extends StatelessWidget {
   }
 }
 
-// ---------------- CONTACT PAGE ----------------
 class ContactPage extends StatelessWidget {
   const ContactPage({super.key});
 
